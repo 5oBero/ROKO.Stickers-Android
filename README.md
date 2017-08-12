@@ -5,9 +5,6 @@ Here at ROKO, we’ve discovered, it’s simple to add some extra delight in the
 ## Portal settings
 ROKO Mobi provides app developers and product owners with a suite of tools to accelerate mobile development, engage and track customers, and measure their app's success
 
-See here for ROKO Mobi documentation, interaction guides, and instructions:
-https://docs.roko.mobi/docs/setting-up-your-account
-
 ## Android Project Settings
 Import project in Android studio:
 
