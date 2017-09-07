@@ -9,9 +9,5 @@ Here at ROKO, we’ve discovered it’s simple to add some extra delight in the 
 1. Import project in Android Studio
 2. Add a new key to your `AndroidManifest.xml` file
   - name: `ROKOMobiAPIToken`
-  - value: Your API key ([instructions for retrieving your API key](https://docs.instabot.io/docs/web-basic-setup#section-1-get-your-instabot-api-key)) eg:
-
-    <meta-data android:name="ROKOMobiAPIToken" android:value="nJM8BOaGCgm1zdOEWs/mwLsao" />
-	
-
+  - value: Your API key ([instructions for retrieving your API key](https://docs.instabot.io/docs/web-basic-setup#section-1-get-your-instabot-api-key))
 3. Update release signing config in build.gradle for release application build
