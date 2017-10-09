@@ -11,3 +11,5 @@ Here at ROKO, we’ve discovered it’s simple to add some extra delight in the 
   - name: `ROKOMobiAPIToken`
   - value: Your API key ([instructions for retrieving your API key](https://docs.instabot.io/docs/web-basic-setup#section-1-get-your-instabot-api-key))
 3. Update release signing config in build.gradle for release application build
+
+#### If you don't have an account yet, please email us at info@instabot.io and we'll get you set up!
